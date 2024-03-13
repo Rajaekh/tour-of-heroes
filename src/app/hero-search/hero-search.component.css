@@ -1,0 +1,37 @@
+#search-component {
+    margin: 20px;
+  }
+  
+  #search-box {
+    width: 300px; /* Largeur fixe de 300 pixels */
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  ul.search-result {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul.search-result li {
+    margin-top: 10px;
+  }
+  
+  .hero-thumbnail {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .hero-name {
+    font-weight: bold;
+  }
+  
+  .no-result {
+    margin-top: 10px;
+    color: red;
+  }
+  
